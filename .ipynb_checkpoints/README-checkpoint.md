@@ -28,15 +28,11 @@ The goals of this study are as follows:
 
 To do this, we first understood what we are dealing with by solving the ODE system as follows:
 
-$$\begin{equation*}
-    \frac{dS}{dt} = -\beta IS
-\end{equation*}
-\begin{equation*}
-    \frac{dI}{dt} = \beta IS - \gamma I
-\end{equation*}
-\begin{equation*}
-    \frac{dR}{dt} = \gamma I
-\end{equation*}$$
+$$\frac{dS}{dt} = -\beta IS$$
+
+$$\frac{dI}{dt} = \beta IS - \gamma I$$
+
+$$\frac{dR}{dt} = \gamma I$$
 
 The following assumptions were made:
 
